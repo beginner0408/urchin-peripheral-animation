@@ -305,6 +305,6 @@ const lv_img_dsc_t corro01 = {
   .header.reserved = 0,
   .header.w = 140,
   .header.h = 68,
-  .data_size = 1224,
+  .data_size = 1232,
   .data = corro01_map,
 };
